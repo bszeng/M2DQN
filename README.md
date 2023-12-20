@@ -3,17 +3,13 @@
 The main goal of this work is to introduce a DQN algorithm that integrates multi-task learning and meta-learning. The algorithm aims to learn how to initialize the DQN network under new tasks based on training from multiple source tasks, thereby enhancing the generalization ability of the DQN.
 
 ## System Setup
-Make sure that you have Jupyter Notebook and that the following Python packages are installed:
-- mxnet
-- matplotlib
-- numpy
-- pandas
-- gym
-- scipy
-- math
-- os
-- itertools
-- sys
+Make sure that you have Jupyter Notebook. The main Python packages and versions involved are as follows
+- mxnet: 1.6.0
+- matplotlib: 3.3.4
+- numpy: 1.18.5
+- pandas: 1.1.5
+- gym: 0.21.0
+
 
 ## What is included
 ```
