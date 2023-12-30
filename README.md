@@ -40,7 +40,7 @@ M2DQN/
 * Go to the ```rl_agents_training``` folder to run the training of agents:
     * Transfer Learning: 
         * TL-DQN_Training.ipynb
-        * TL-DQN_Training.ipynb
+        * TL-DQN_Adaptation.ipynb
     * Multi-task Learning:
         * Multi-task_DQN.ipynb
     * Meta-Learning:
